@@ -1,1 +1,1 @@
-# intro-js-rocket
+# course introduction js
